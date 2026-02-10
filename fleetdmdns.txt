@@ -2,4 +2,4 @@
 # Title: Hosts part of FleetDM
 #=====================================
 
-nv.cloud.fleetdm.com
+0.0.0.0 nv.cloud.fleetdm.com
